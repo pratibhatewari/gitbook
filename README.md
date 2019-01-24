@@ -1,4 +1,8 @@
-# Law Exam Study Material
+---
+description: This page contains syllabus for the higher judicial services examinations
+---
+
+# Syllabus
 
 ## Substantive Law
 
