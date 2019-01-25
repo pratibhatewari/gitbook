@@ -1,5 +1,13 @@
 # Part III Fundamental Rights
 
+## Right to Equality Arts. 14 -18
+
+### Art. 16 Equality of opportunity in matters of public employment.
+
+{% hint style="success" %}
+**UPHJS2016 2\(B\). Whether on account of marriage of a lady belonging to SC/ST category to be person of unreserved category she loses her status as SC/ST person for the purpose of grant of employment or contesting election to reserved seats, and what consideration would prevail in determining the caste status of a child born out of their wed lock? \[10 marks\]**
+{% endhint %}
+
 ## Cultural and Educational Rights Arts. 29-30
 
 {% hint style="success" %}
