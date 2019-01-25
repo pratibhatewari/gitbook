@@ -35,3 +35,8 @@
 
 * [Gift or Hiba](muslim-laws/gift-or-hiba.md)
 
+## Civil Procedure Code
+
+* [Stay of Suit](civil-procedure-code/stay-of-suit.md)
+* [Appearance and Non-appearance of parties](civil-procedure-code/appearance-and-non-appearance-of-parties.md)
+
