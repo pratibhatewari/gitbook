@@ -17,6 +17,15 @@
 
 * [General Principles of contract](law-of-contract/general-principles-of-contract.md)
 
+## Transfer of Property Act
+
+* [General Concepts](transfer-of-property-act/general-concepts.md)
+
+## Law of Torts
+
+* [Defamation](law-of-torts/defamation.md)
+* [Absolute and Strict Liability](law-of-torts/absolute-and-strict-liability.md)
+
 ## Hindu Laws
 
 * [Schools of Hindu Law](hindu-laws/schools-of-hindu-law.md)
