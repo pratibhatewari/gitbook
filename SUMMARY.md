@@ -6,5 +6,7 @@
 
 * [Constitution of India](constitutional-law/constitution-of-india.md)
 * [Notes on Constitutional Law](constitutional-law/notes-on-constitutional-law.md)
-* [Questions asked in various examinations](constitutional-law/questions-asked-in-various-examinations.md)
+* [Questions asked in various examinations](constitutional-law/questions-asked-in-various-examinations/README.md)
+  * [Higher Judicial Services](constitutional-law/questions-asked-in-various-examinations/higher-judicial-services.md)
+  * [Other Examinations](constitutional-law/questions-asked-in-various-examinations/other-examinations.md)
 
