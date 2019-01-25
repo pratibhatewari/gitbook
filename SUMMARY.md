@@ -40,3 +40,8 @@
 * [Stay of Suit](civil-procedure-code/stay-of-suit.md)
 * [Appearance and Non-appearance of parties](civil-procedure-code/appearance-and-non-appearance-of-parties.md)
 
+## Criminal Procedure Code
+
+* [Cognizance of Offences](criminal-procedure-code/cognizance-of-offences.md)
+* [Domestic Violence Act](criminal-procedure-code/domestic-violence-act.md)
+
