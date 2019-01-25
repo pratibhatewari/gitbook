@@ -1,6 +1,6 @@
 # Specific Relief Act, 1963
 
-### PART I Preliminary
+## PART I Preliminary
 
 #### 1. Short title, extent and commencement. -
 
