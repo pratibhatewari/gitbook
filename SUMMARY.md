@@ -1,6 +1,6 @@
 # Table of contents
 
-* [Syllabus](README.md)
+* [Higher Judicial Services Examination Syllabus](README.md)
 
 ## Constitutional Law
 

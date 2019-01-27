@@ -2,7 +2,7 @@
 description: This page contains syllabus for the higher judicial services examinations
 ---
 
-# Syllabus
+# Higher Judicial Services Examination Syllabus
 
 ## Substantive Law
 
