@@ -45,3 +45,11 @@
 * [Cognizance of Offences](criminal-procedure-code/cognizance-of-offences.md)
 * [Domestic Violence Act](criminal-procedure-code/domestic-violence-act.md)
 
+## Indian Evidence Act
+
+* [Indian Evidence Act](indian-evidence-act/indian-evidence-act.md)
+
+## Indian Penal Code
+
+* [Indian Penal Code](indian-penal-code/indian-penal-code.md)
+
