@@ -49,6 +49,8 @@
 
 * [Indian Evidence Act](indian-evidence-act/indian-evidence-act/README.md)
   * [part i](indian-evidence-act/indian-evidence-act/part-i.md)
+  * [part ii](indian-evidence-act/indian-evidence-act/part-ii.md)
+  
 
 ## Indian Penal Code
 
