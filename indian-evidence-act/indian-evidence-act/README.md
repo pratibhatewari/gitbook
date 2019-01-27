@@ -1,4 +1,5 @@
 # Indian Evidence Act
 
-## evidence
+Indian evidence act is common to both civil and criminal proceedings
+
 
