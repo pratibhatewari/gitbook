@@ -1,7 +1,3 @@
----
-description: Order IX
----
-
 # Appearance and Non-appearance of parties
 
 

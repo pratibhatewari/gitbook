@@ -6,5 +6,3 @@
 
 Stay of Suit is contained under section 10
 
-
-
